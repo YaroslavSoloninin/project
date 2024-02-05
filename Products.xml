@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<products>
+        <product name = "Банан">
+            <calories>90</calories>
+        </product>
+
+        <product name = "Яблоко">
+            <calories>45</calories>
+        </product>
+
+        <product name = "Груша">
+            <calories>40</calories>
+        </product>
+
+        <product name = "Черника">
+            <calories>40</calories>
+        </product>
+
+        <product name = "Клубника">
+            <calories>30</calories>
+        </product>
+
+        <product name = "Апельсин">
+            <calories>40</calories>
+        </product>
+
+        <product name = "Киви">
+            <calories>50</calories>
+        </product>
+
+        <product name = "Виноград">
+            <calories>65</calories>
+        </product>
+
+        <product name = "Изюм">
+            <calories>270</calories>
+        </product>
+
+        <product name = "Яйцо">
+            <calories>100</calories>
+        </product>
+
+        <product name = "Гречка">
+            <calories>100</calories>
+        </product>
+
+        <product name = "Манная каша">
+            <calories>100</calories>
+        </product>
+
+        <product name = "Пшеничная каша">
+            <calories>150</calories>
+        </product>
+
+        <product name = "Рис">
+            <calories>140</calories>
+        </product>
+
+        <product name = "Пшенная каша">
+            <calories>100</calories>
+        </product>
+
+        <product name = "Овсяная каша">
+            <calories>110</calories>
+        </product>
+
+        <product name = "Каша гороховая">
+            <calories>100</calories>
+        </product>
+
+        <product name = "Баранина">
+            <calories>300</calories>
+        </product>
+
+        <product name = "Говядина">
+            <calories>350</calories>
+        </product>
+
+        <product name = "Свинина">
+            <calories>400</calories>
+        </product>
+
+        <product name = "Грибы жареные">
+            <calories>160</calories>
+        </product>
+
+        <product name = "Курица">
+            <calories>250</calories>
+        </product>
+
+        <product name = "Рыба">
+            <calories>200</calories>
+        </product>
+
+        <product name = "Котлета рыбныа">
+            <calories>150</calories>
+        </product>
+
+        <product name = "Котлета">
+            <calories>230</calories>
+        </product>
+
+        <product name = "Креветки">
+            <calories>200</calories>
+        </product>
+
+        <product name = "Авокадо">
+            <calories>160</calories>
+        </product>
+
+        <product name = "Баклажан">
+            <calories>25</calories>
+        </product>
+
+        <product name = "Морковь">
+            <calories>30</calories>
+        </product>
+
+        <product name = "Петрушка">
+            <calories>50</calories>
+        </product>
+
+        <product name = "Свекла">
+            <calories>45</calories>
+        </product>
+
+        <product name = "Картофель">
+            <calories>80</calories>
+        </product>
+
+        <product name = "Лук репчатый">
+            <calories>50</calories>
+        </product>
+
+        <product name = "Чеснок">
+            <calories>150</calories>
+        </product>
+
+        <product name = "Салат">
+            <calories>10</calories>
+        </product>
+
+        <product name = "Капуста цветная">
+            <calories>30</calories>
+        </product>
+
+        <product name = "Горох сушеный">
+            <calories>300</calories>
+        </product>
+
+        <product name = "Бобы">
+            <calories>60</calories>
+        </product>
+
+        <product name = "Фасоль">
+            <calories>270</calories>
+        </product>
+
+        <product name = "Помидор">
+            <calories>20</calories>
+        </product>
+
+        <product name = "Кабачок">
+            <calories>25</calories>
+        </product>
+
+        <product name = "Огурец">
+            <calories>15</calories>
+        </product>
+
+        <product name = "Укроп">
+            <calories>40</calories>
+        </product>
+
+        <product name = "Хлеб пшеничный">
+            <calories>250</calories>
+        </product>
+
+        <product name = "Батон">
+            <calories>260</calories>
+        </product>
+
+        <product name = "Лаваш">
+            <calories>240</calories>
+        </product>
+
+        <product name = "Лепешка ржаная">
+            <calories>320</calories>
+        </product>
+
+        <product name = "Черный хлеб">
+            <calories>90</calories>
+        </product>
+
+        <product name = "Творог">
+            <calories>200</calories>
+        </product>
+
+        <product name = "Макараны">
+            <calories>330</calories>
+        </product>
+
+        <product name = "Пюре">
+            <calories>70</calories>
+        </product>
+
+        <product name = "Булруг">
+            <calories>340</calories>
+        </product>
+
+        <product name = "Чечевица">
+            <calories>116</calories>
+        </product>
+
+</products>
